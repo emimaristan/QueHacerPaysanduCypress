@@ -1,0 +1,17 @@
+{
+  "name": "quehacerpaysandu",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas para sitio Web QueHacerPaysandú",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QueHacerPaysandu"
+  ],
+  "author": "Emiliano Maristan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
